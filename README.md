@@ -1,5 +1,6 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=chaizia)
+[![chaizia's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaizia&show_icons=true&count_private=true&icon_color=008080&text_color=00AEFF&bg_color=27282200
+)](https://github.com/chaizia)
 
 <!--
 **chaizia/chaizia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
